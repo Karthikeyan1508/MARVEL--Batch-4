@@ -13,7 +13,7 @@
 
 # Task 5 - VI
 
-***VI: Navigating the Depths of Text Editing**
+**VI: Navigating the Depths of Text Editing**
 
 > - In the vast ocean of text editors, VI stands as a beacon of *efficiency* and *reliability*, tracing its roots back to the dawn of Unix systems.
 > - Its minimalist interface belies a powerhouse of functionality, offering a plethora of commands and shortcuts designed to streamline text editing tasks.
