@@ -65,3 +65,10 @@ This is a sample Markdown file created using VI. Below are some key features ill
 
 ![unnamed (2)](https://github.com/Karthikeyan1508/MARVEL--Batch-4/assets/121244307/498cb0ab-b58f-4679-a065-d7862f98062d)
 
+***
+
+# Task 7 - Introduction to Cloud Computing
+
+![file_2024-03-25_06 11 39](https://github.com/Karthikeyan1508/MARVEL--Batch-4/assets/121244307/1656d968-6a00-4035-bcbc-2eafa6a442e4)
+![pic2](https://github.com/Karthikeyan1508/MARVEL--Batch-4/assets/121244307/a824ebf8-21c4-45a0-bda6-9c55960a1336)
+
