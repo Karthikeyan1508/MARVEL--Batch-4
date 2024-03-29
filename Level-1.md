@@ -15,12 +15,12 @@
 
 ***VI: Navigating the Depths of Text Editing**
 
-* In the vast ocean of text editors, VI stands as a beacon of *efficiency* and *reliability*, tracing its roots back to the dawn of Unix systems.
-* Its minimalist interface belies a powerhouse of functionality, offering a plethora of commands and shortcuts designed to streamline text editing tasks.
-* VI's modal editing paradigm, where users seamlessly transition between *insert* and *command* modes, epitomizes its user-centric design philosophy.
-* Customization is key in VI's realm, empowering users to mold the editor to their unique needs through *settings*, *macros*, and *plugins*.
-* Yet, mastering VI is an odyssey in itself, a journey of discovery that rewards persistence with unparalleled speed and precision in text manipulation.
-* In the ever-evolving landscape of text editors, VI remains a *steadfast companion*, a testament to the enduring legacy of **simplicity**, **efficiency**, and timeless **elegance**.
+> - In the vast ocean of text editors, VI stands as a beacon of *efficiency* and *reliability*, tracing its roots back to the dawn of Unix systems.
+> - Its minimalist interface belies a powerhouse of functionality, offering a plethora of commands and shortcuts designed to streamline text editing tasks.
+> - VI's modal editing paradigm, where users seamlessly transition between *insert* and *command* modes, epitomizes its user-centric design philosophy.
+> - Customization is key in VI's realm, empowering users to mold the editor to their unique needs through *settings*, *macros*, and *plugins*.
+> - Yet, mastering VI is an odyssey in itself, a journey of discovery that rewards persistence with unparalleled speed and precision in text manipulation.
+> - In the ever-evolving landscape of text editors, VI remains a *steadfast companion*, a testament to the enduring legacy of **simplicity**, **efficiency**, and timeless **elegance**.
 
 ### Features:
 
