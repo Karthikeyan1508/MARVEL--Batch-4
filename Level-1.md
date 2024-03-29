@@ -27,4 +27,7 @@
 
 ***
 
+# Task 6 - Linux Continued
+
+![unnamed (2)](https://github.com/Karthikeyan1508/MARVEL--Batch-4/assets/121244307/498cb0ab-b58f-4679-a065-d7862f98062d)
 
