@@ -1,3 +1,10 @@
+# Task 1 - Javascript
+
+![image](https://github.com/Karthikeyan1508/MARVEL--Batch-4/assets/121244307/ab492bec-a947-4720-ab02-4b6f708a5d9f)
+![image](https://github.com/Karthikeyan1508/MARVEL--Batch-4/assets/121244307/76999ff0-840d-4762-8315-c9ed9f8be907)
+
+***
+
 # Task 4 - Get familiar with the command line and do the following subtasks
 
 * Created a folder named "test" and navigated into it.
