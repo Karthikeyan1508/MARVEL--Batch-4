@@ -5,6 +5,12 @@
 
 ***
 
+# Task 2 - Asynchronous
+
+![image](https://github.com/Karthikeyan1508/MARVEL--Batch-4/assets/121244307/141eddf0-a78c-44e5-8fd8-96a38d4f5cdc)
+
+***
+
 # Task 4 - Get familiar with the command line and do the following subtasks
 
 * Created a folder named "test" and navigated into it.
