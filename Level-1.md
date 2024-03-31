@@ -1,4 +1,4 @@
-![Snap](https://github.com/Karthikeyan1508/MARVEL--Batch-4/assets/121244307/7857e83e-7381-4d6d-8c5b-c152d512dfca)# Task 1 - Javascript
+# Task 1 - Javascript
 
 ![image](https://github.com/Karthikeyan1508/MARVEL--Batch-4/assets/121244307/ab492bec-a947-4720-ab02-4b6f708a5d9f)
 ![image](https://github.com/Karthikeyan1508/MARVEL--Batch-4/assets/121244307/76999ff0-840d-4762-8315-c9ed9f8be907)
@@ -7,14 +7,26 @@
 
 # Task 2 - Asynchronous
 
-![image](https://github.com/Karthikeyan1508/MARVEL--Batch-4/assets/121244307/141eddf0-a78c-44e5-8fd8-96a38d4f5cdc)
+- Asynchronous JavaScript allows non-blocking code execution, crucial for managing tasks like data fetching and API calls without halting program flow.
+- The program implements a callback-based approach to simulate cooking instructions for a food recipe, with each step represented by a function.
+- Each step function invokes the next step via a callback upon completion, ensuring sequential execution and reflecting real-world cooking scenarios.
+- Utilizing callbacks maintains a structured flow, enabling the recipe to progress asynchronously while allowing other operations to proceed concurrently, enhancing performance and user experience.
+- Asynchronous programming with callbacks is essential in JavaScript development for creating responsive and efficient applications, vital for tasks such as user interactions and server communication.
 
+![image](https://github.com/Karthikeyan1508/MARVEL--Batch-4/assets/121244307/141eddf0-a78c-44e5-8fd8-96a38d4f5cdc)
 
 ***
 
-
 # Task 3 - Promises
 
+- **Clearer Code Structure:** Promises provide a cleaner and more readable code structure compared to callback-based approaches, making it easier to understand the flow of asynchronous operations.
+
+- **Error Handling:** Promises offer built-in error handling through the use of `.catch()`, allowing developers to handle errors more effectively and ensure smooth execution of the program.
+
+- **Chaining and Sequencing:** Promises enable chaining of asynchronous operations using `.then()`, simplifying the sequential execution of tasks and reducing callback nesting.
+
+- **Asynchronous Parallelism:** Promises allow for parallel execution of asynchronous tasks using `Promise.all()` or `Promise.race()`, enhancing performance by running multiple tasks concurrently when applicable.
+  
 ![Snap (1)](https://github.com/Karthikeyan1508/MARVEL--Batch-4/assets/121244307/8b0e59cd-7890-489d-8e37-9906dfb36fc9)
 
 ***
