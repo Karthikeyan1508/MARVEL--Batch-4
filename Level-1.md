@@ -1,5 +1,7 @@
 # Task 1 - Javascript
 
+JavaScript, a dynamic scripting language, is widely used for web development to add interactivity and functionality to websites. With its versatility, JavaScript allows for client-side and server-side scripting, enabling dynamic content generation and user interface enhancements. JavaScript's ecosystem boasts extensive libraries and frameworks such as React and Node.js, fostering rapid development and scalability. Its ubiquitous presence across browsers and platforms makes JavaScript a cornerstone of modern web development, empowering developers to create immersive and responsive web experiences.
+
 ![image](https://github.com/Karthikeyan1508/MARVEL--Batch-4/assets/121244307/ab492bec-a947-4720-ab02-4b6f708a5d9f)
 ![image](https://github.com/Karthikeyan1508/MARVEL--Batch-4/assets/121244307/76999ff0-840d-4762-8315-c9ed9f8be907)
 
@@ -95,6 +97,32 @@ This is a sample Markdown file created using VI. Below are some key features ill
 ***
 
 # Task 6 - Linux Continued
+
+The Task was to extract login times within a date/time range from the login logs & pipe this information into a text file and put it into a folder named logs.
+
+1. **Understanding Regex and Piping in Linux:**
+   - Regex (regular expressions) is a powerful tool for pattern matching in strings.
+   - Piping (`|`) allows output from one command to be used as input for another in Linux.
+
+2. **Understanding `grep` Command:**
+   - `grep` is a command-line utility for searching text using regex patterns.
+   - It extracts lines from files or standard input that match a specified pattern.
+
+3. **Using `grep` to Extract Login Times:**
+   - We can use `grep` with regex patterns to extract login times from the `last` command output.
+   - For example, `last | grep 'username'` extracts login information for a specific user.
+
+4. **Piping Output to a Text File:**
+   - We can pipe the output of `grep` into a text file using the `>` operator.
+   - This allows us to store the extracted login times for further processing.
+
+5. **Creating Logs Folder and Archiving:**
+   - We create a folder named "logs" to store the extracted login times text file.
+   - Then, we use `gzip` and `tar` commands to compress the folder into a single archive file for easier storage and transportation.
+
+6. **Benefits of Using `grep` and Piping:**
+   - `grep` combined with regex offers a flexible and efficient way to filter and extract specific information from large datasets.
+   - Piping allows seamless integration of multiple commands, enabling complex data processing workflows in Linux.
 
 ![unnamed (2)](https://github.com/Karthikeyan1508/MARVEL--Batch-4/assets/121244307/498cb0ab-b58f-4679-a065-d7862f98062d)
 
