@@ -9,12 +9,13 @@
 
 ![image](https://github.com/Karthikeyan1508/MARVEL--Batch-4/assets/121244307/141eddf0-a78c-44e5-8fd8-96a38d4f5cdc)
 
+
 ***
 
 
 # Task 3 - Promises
 
-![Snap](https://github.com/Karthikeyan1508/MARVEL--Batch-4/assets/121244307/2dac6a1c-32b3-4915-b7b5-346d20e5444e)
+![Snap (1)](https://github.com/Karthikeyan1508/MARVEL--Batch-4/assets/121244307/8b0e59cd-7890-489d-8e37-9906dfb36fc9)
 
 ***
 
