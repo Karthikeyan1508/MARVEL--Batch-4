@@ -1,4 +1,4 @@
-# Task 1 - Javascript
+![Snap](https://github.com/Karthikeyan1508/MARVEL--Batch-4/assets/121244307/7857e83e-7381-4d6d-8c5b-c152d512dfca)# Task 1 - Javascript
 
 ![image](https://github.com/Karthikeyan1508/MARVEL--Batch-4/assets/121244307/ab492bec-a947-4720-ab02-4b6f708a5d9f)
 ![image](https://github.com/Karthikeyan1508/MARVEL--Batch-4/assets/121244307/76999ff0-840d-4762-8315-c9ed9f8be907)
@@ -8,6 +8,13 @@
 # Task 2 - Asynchronous
 
 ![image](https://github.com/Karthikeyan1508/MARVEL--Batch-4/assets/121244307/141eddf0-a78c-44e5-8fd8-96a38d4f5cdc)
+
+***
+
+
+# Task 3 - Promises
+
+![Snap](https://github.com/Karthikeyan1508/MARVEL--Batch-4/assets/121244307/2dac6a1c-32b3-4915-b7b5-346d20e5444e)
 
 ***
 
