@@ -147,6 +147,8 @@ Then SHARE :) & access the Shared Folder on the Other PC..!
 ![step 3](https://github.com/Karthikeyan1508/MARVEL--Batch-4/assets/121244307/c85c9f22-4781-4d2e-b06e-364408016ca2)
 ![final step](https://github.com/Karthikeyan1508/MARVEL--Batch-4/assets/121244307/2f4d99e6-8fc9-4fc8-a304-6d2baa5fe628)
 
+***
+
 # Task 8 - Introduction to Cybersecurity
 
 Cryptography is the practice and study of techniques for secure communication in the presence of third parties, often referred to as adversaries. It encompasses various methods of encrypting and decrypting information to ensure confidentiality, integrity, and authenticity of data. Through the use of mathematical algorithms and principles, cryptography enables the transformation of plaintext into ciphertext, making it unintelligible to anyone without the proper decryption key. It plays a crucial role in protecting sensitive information transmitted over networks, securing electronic transactions, and safeguarding the privacy of individuals in the digital age. 
@@ -158,4 +160,5 @@ Cryptography is the practice and study of techniques for secure communication in
 5. Polybius Cipher : `135412154243151345422444542433321142511531`
 6. Pigpen Cipher : ![image](https://github.com/Karthikeyan1508/MARVEL--Batch-4/assets/121244307/00541d70-f205-42c7-89a2-1a4e3c9247ee)
 
+***
    
