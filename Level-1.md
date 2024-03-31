@@ -130,6 +130,8 @@ The Task was to extract login times within a date/time range from the login logs
 
 # Task 7 - Introduction to Cloud Computing
 
+The objective of this task is to establish a local file sharing solution between two Windows machines, one running Windows 11 (PC 1) and the other running Windows 7 (PC 2). By the end of this process, users should be able to share files seamlessly between the two devices.
+
 > 1. Go to *Network and Sharing Center* > *Advanced Sharing Settings* ---> "Confirm that network discovery and file sharing are enabled on both PCs."
    
 ![file_2024-03-25_06 11 39](https://github.com/Karthikeyan1508/MARVEL--Batch-4/assets/121244307/1656d968-6a00-4035-bcbc-2eafa6a442e4)
@@ -147,10 +149,13 @@ Then SHARE :) & access the Shared Folder on the Other PC..!
 
 # Task 8 - Introduction to Cybersecurity
 
+Cryptography is the practice and study of techniques for secure communication in the presence of third parties, often referred to as adversaries. It encompasses various methods of encrypting and decrypting information to ensure confidentiality, integrity, and authenticity of data. Through the use of mathematical algorithms and principles, cryptography enables the transformation of plaintext into ciphertext, making it unintelligible to anyone without the proper decryption key. It plays a crucial role in protecting sensitive information transmitted over networks, securing electronic transactions, and safeguarding the privacy of individuals in the digital age. 
+
 1. Caesar Cipher : `Fbehuvhfxulwb lq Pduyho`
 2. Morse Code : `-.-. -.-- -... . .-. ... . -.-. ..- .-. .. - -.-- / .. -. / -- .- .-. ...- . .-..`
 3. Rail Fence Cipher : `Cbreuiyi avlyescrt nMre`
-4. Pigpen Cipher :   
+4. Playfair Cipher : `MCCHIYHDRYGSSRONVALOEV` (Playfair keyword : Gravity Falls)
 5. Polybius Cipher : `135412154243151345422444542433321142511531`
-6. Playfair Cipher : `MCCHIYHDRYGSSRONVALOEV` (Playfair keyword : Gravity Falls)
+6. Pigpen Cipher : ![image](https://github.com/Karthikeyan1508/MARVEL--Batch-4/assets/121244307/00541d70-f205-42c7-89a2-1a4e3c9247ee)
+
    
