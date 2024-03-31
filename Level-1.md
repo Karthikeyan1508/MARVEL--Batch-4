@@ -130,7 +130,8 @@ The Task was to extract login times within a date/time range from the login logs
 
 # Task 7 - Introduction to Cloud Computing
 
-> 1. Go to Network and Sharing Center > Advanced Sharing Settings > "Confirm that network discovery and file sharing are enabled on both PCs."
+> 1. Go to `Network and Sharing Center` > `Advanced Sharing Settings`
+>    "Confirm that network discovery and file sharing are enabled on both PCs."
    
 ![file_2024-03-25_06 11 39](https://github.com/Karthikeyan1508/MARVEL--Batch-4/assets/121244307/1656d968-6a00-4035-bcbc-2eafa6a442e4)
 
