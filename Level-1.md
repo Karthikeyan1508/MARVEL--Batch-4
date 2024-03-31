@@ -130,7 +130,8 @@ The Task was to extract login times within a date/time range from the login logs
 
 # Task 7 - Introduction to Cloud Computing
 
-1. Go to Network and Sharing Center > Advanced Sharing Settings > "Confirm that network discovery and file sharing are enabled on both PCs."
+> 1. Go to Network and Sharing Center > Advanced Sharing Settings > "Confirm that network discovery and file sharing are enabled on both PCs."
+   
 ![file_2024-03-25_06 11 39](https://github.com/Karthikeyan1508/MARVEL--Batch-4/assets/121244307/1656d968-6a00-4035-bcbc-2eafa6a442e4)
 
 
@@ -138,10 +139,10 @@ The Task was to extract login times within a date/time range from the login logs
 
 # Task 8 - Introduction to Cybersecurity
 
-1. Caesar Cipher - `Fbehuvhfxulwb lq Pduyho`
-2. Morse Code ->  `-.-. -.-- -... . .-. ... . -.-. ..- .-. .. - -.-- / .. -. / -- .- .-. ...- . .-..`
-3. Rail Fence Cipher ->  `Cbreuiyi avlyescrt nMre`
-4. Pigpen cipher ->  
-5. Polybius cipher -> `135412154243151345422444542433321142511531`
-6. Playfair cipher ->  `MCCHIYHDRYGSSRONVALOEV` (Playfair keyword : Gravity Falls)
+1. Caesar Cipher : `Fbehuvhfxulwb lq Pduyho`
+2. Morse Code : `-.-. -.-- -... . .-. ... . -.-. ..- .-. .. - -.-- / .. -. / -- .- .-. ...- . .-..`
+3. Rail Fence Cipher : `Cbreuiyi avlyescrt nMre`
+4. Pigpen Cipher :   
+5. Polybius Cipher : `135412154243151345422444542433321142511531`
+6. Playfair Cipher : `MCCHIYHDRYGSSRONVALOEV` (Playfair keyword : Gravity Falls)
    
