@@ -140,9 +140,10 @@ Repeat the same for ***UPnP Device Host***, ***Function Discovery Provider Host*
 ![pic2](https://github.com/Karthikeyan1508/MARVEL--Batch-4/assets/121244307/a824ebf8-21c4-45a0-bda6-9c55960a1336)
 
 > 3. Go the *Properties* of the folder which you want to share > *Advanced Sharing* > Check "*Share this folder*" > Go to *Permissions* > *Allow all* the Permissions > Click on **Share** > Give access to *Everyone* & Permit to *Read/Write*.
-Then SHARE :)
+Then SHARE :) & access the Shared Folder on the Other PC..!
 
 ![step 3](https://github.com/Karthikeyan1508/MARVEL--Batch-4/assets/121244307/c85c9f22-4781-4d2e-b06e-364408016ca2)
+![final step](https://github.com/Karthikeyan1508/MARVEL--Batch-4/assets/121244307/2f4d99e6-8fc9-4fc8-a304-6d2baa5fe628)
 
 # Task 8 - Introduction to Cybersecurity
 
