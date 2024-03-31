@@ -134,10 +134,9 @@ The Task was to extract login times within a date/time range from the login logs
    
 ![file_2024-03-25_06 11 39](https://github.com/Karthikeyan1508/MARVEL--Batch-4/assets/121244307/1656d968-6a00-4035-bcbc-2eafa6a442e4)
 
-> 2. Go to *Services* > *SSDP Discovery* > *Properties* > "Change the **Startup Type** to `Automatic.`"
-``` 
-Repeat the same for UPnP Device Host, Function Discovery Provider Host & Function Discovery Resource Publication
-```
+> 2. Go to *Services* > *SSDP Discovery* > *Properties* > "Change the **Startup Type** to `Automatic`."
+Repeat the same for **UPnP Device Host**, **Function Discovery Provider Host** & **Function Discovery Resource Publication**.
+
 ![pic2](https://github.com/Karthikeyan1508/MARVEL--Batch-4/assets/121244307/a824ebf8-21c4-45a0-bda6-9c55960a1336)
 
 # Task 8 - Introduction to Cybersecurity
