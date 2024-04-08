@@ -1,5 +1,7 @@
 # Task 1 - OSI
 
+he OSI (Open Systems Interconnection) model is a conceptual framework used to understand and describe the functions of a networking or telecommunication system. It was developed by the International Organization for Standardization (ISO) to standardize the protocols used in various layers of network communication. The model is divided into seven layers, each responsible for specific functions in the process of data transmission between devices across a network.
+
 | Layer No | Layer Name          | Responsibility                                                     | Information Form(Data Unit) | Device or Protocol |
 |----------|---------------------|--------------------------------------------------------------------|------------------------------|--------------------|
 | 7        | Application Layer   | Helps in identifying the client and synchronizing communication.  | Message                      | SMTP               |
