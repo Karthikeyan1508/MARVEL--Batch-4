@@ -10,4 +10,4 @@ he OSI (Open Systems Interconnection) model is a conceptual framework used to un
 | 4        | Transport Layer     | Take Service from Network Layer and provide it to the Application Layer. | Segment | Firewall |
 | 3        | Network Layer       | Transmission of data from one host to another, located in different networks. | Packet | Router |
 | 2        | Data Link Layer     | Node to Node Delivery of Message.                                  | Frame | Switch, Bridge |
-| 1        | Physical Layer      | Establishing Physical Connections between Devices.                 | Bits | Hub, Repeater, Modem, Cables |
+| 1        | Physical Layer      | Establishing Physical Connections between Devices.                 | Bits | Hub, Repeater, Modem, Cables | 
