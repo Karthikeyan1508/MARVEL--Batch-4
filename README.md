@@ -5,10 +5,9 @@ Welcome to the MARVEL Batch 4 repository! This repository contains reports and t
 ## Overview 📋
 This repository is dedicated to documenting the progress and reports of tasks assigned in the MARVEL Batch 4 program, focusing on Cloud Computing and Cybersecurity. You'll find detailed reports, methodologies, and results of each project undertaken.
 
-## Getting Started 🌟
-To get started, clone the repository to your local machine:
-```bash
-git clone https://github.com/Karthikeyan1508/MARVEL--Batch-4.git
-```
+Explore the reports of all levels in this repository. 
 
-Explore the reports directory for detailed analysis and the tasks directory for the task descriptions and related resources.
+## Support 💪
+
+If you find this repository helpful, please consider giving it a star ⭐ to show your support!
+[GitHub Repository](https://github.com/Karthikeyan1508/MARVEL--Batch-4)
