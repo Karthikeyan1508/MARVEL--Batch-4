@@ -38,4 +38,20 @@ For this task, I created a to-do app using Node.js and an SQLite database, which
 ![ASDF](https://github.com/user-attachments/assets/9ff549c9-3c13-4f0f-8c02-cc71d7a9966b)
 ![Untitled design](https://github.com/user-attachments/assets/75c65741-708b-471f-9e8b-46d8258fd3cb)
 
+***
 
+# Task 3 - Sockets!
+
+WebSockets are a communication protocol that provides full-duplex communication channels over a single TCP connection. Unlike traditional HTTP, which is request-response based, WebSockets allow for bidirectional, real-time communication between a client and server. Once a WebSocket connection is established, data can flow freely in both directions, enabling interactive and dynamic web applications, such as chat applications, online games, and live updates.
+
+Key features of WebSockets include:
+- **Persistent Connection**: The connection remains open, allowing for ongoing data transfer without needing to re-establish the connection.
+- **Low Latency**: Data can be sent and received with minimal delay, making it ideal for real-time applications.
+- **Full-Duplex Communication**: Both client and server can send messages independently, enabling more interactive and responsive applications.
+
+**Chat App**:
+A Chat application developed using Socket.io for real-time communication and SQLite for data storage. The application allows users to join chat rooms, send and receive messages, and view message history, all in real-time.
+
+![image](https://github.com/user-attachments/assets/61ea24a2-bcd8-407b-b48c-558b29810195)
+
+***
