@@ -18,7 +18,8 @@ Key features of WebSockets include:<br /><br />
 > **Chat App**:
 A Chat application developed using Socket.io for real-time communication and SQLite for data storage. The application allows users to join chat rooms, send and receive messages, and view message history, all in real-time.
 <br>
-![image](https://github.com/user-attachments/assets/61ea24a2-bcd8-407b-b48c-558b29810195)
+![image](https://github.com/user-attachments/assets/d6192d47-bc33-46ea-ba5d-092d03772f52)
+
 
 ***
 
