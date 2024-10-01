@@ -61,3 +61,10 @@ The Instagram bot was implemented using the following key technologies:
 ![image](https://github.com/user-attachments/assets/8670701a-10a8-4114-b7bd-4a7625c1d6f9)
 ![image](https://github.com/user-attachments/assets/cfe123e2-619d-4837-8b06-98fd2ceb0e94)
 
+***
+
+# Task 2 - Serverless
+
+Serverless refers to a cloud computing model where developers build and run applications without managing the underlying infrastructure, such as servers, storage, or networking. In a serverless architecture, cloud providers (like AWS, Google Cloud, Azure) automatically handle the server management tasks, including provisioning, scaling, and maintenance.
+
+![image](https://github.com/user-attachments/assets/84333aaf-0efe-430a-bdf9-7e44e0aa4ff0)
