@@ -10,6 +10,8 @@ The OSI (Open Systems Interconnection) model is a conceptual framework used to u
 
 Serverless refers to a cloud computing model where developers build and run applications without managing the underlying infrastructure, such as servers, storage, or networking. In a serverless architecture, cloud providers (like AWS, Google Cloud, Azure) automatically handle the server management tasks, including provisioning, scaling, and maintenance.
 
+Vercel allows developers to deploy backend logic using serverless functions. These functions act as the backend of an application, but they run in a serverless environment managed by Vercel.
+
 ![image](https://github.com/user-attachments/assets/84333aaf-0efe-430a-bdf9-7e44e0aa4ff0)
 
 ***
