@@ -6,6 +6,14 @@ The OSI (Open Systems Interconnection) model is a conceptual framework used to u
 
 ***
 
+# Task 2 - Serverless
+
+Serverless refers to a cloud computing model where developers build and run applications without managing the underlying infrastructure, such as servers, storage, or networking. In a serverless architecture, cloud providers (like AWS, Google Cloud, Azure) automatically handle the server management tasks, including provisioning, scaling, and maintenance.
+
+![image](https://github.com/user-attachments/assets/84333aaf-0efe-430a-bdf9-7e44e0aa4ff0)
+
+***
+
 # Task 3 - Sockets!
 
 WebSockets are a communication protocol that provides full-duplex communication channels over a single TCP connection. Unlike traditional HTTP, which is request-response based, WebSockets allow for bidirectional, real-time communication between a client and server. Once a WebSocket connection is established, data can flow freely in both directions, enabling interactive and dynamic web applications, such as chat applications, online games, and live updates.
@@ -20,9 +28,7 @@ A Chat application developed using Socket.io for real-time communication and SQL
 <br>
 ![image](https://github.com/user-attachments/assets/d6192d47-bc33-46ea-ba5d-092d03772f52)
 
-
 ***
-
 
 # Task 4 - Make a Web app
 
@@ -50,6 +56,16 @@ For this task, I created a to-do app using Node.js and an SQLite database, which
 
 ***
 
+# Task 6 - Docker Spyware
+
+> **Docker spyware** refers to malicious software or a container designed to **spy** on activities within a Docker environment. This could involve monitoring files, capturing network traffic, stealing sensitive information, or performing unauthorized operations within a containerized infrastructure. Spyware in a Docker context typically aims to exploit containers or the host system for data collection, including logs, credentials, or files, and send the information to an attacker-controlled server.
+
+The goal of this task was to create a Dockerized Node.js application that monitors a folder for new image files and automatically uploads them to a server. Using chokidar, the script detects image additions and sends them via HTTP POST to a specified server using axios and form-data. The folder was mounted as a Docker volume to allow real-time monitoring.
+
+![image](https://github.com/user-attachments/assets/3fd66c00-8677-4022-be0a-d66d1e20c799)
+
+***
+
 # Task 7 - Web Scraping and Automation
 
 The Instagram bot was implemented using the following key technologies:
@@ -62,9 +78,3 @@ The Instagram bot was implemented using the following key technologies:
 ![image](https://github.com/user-attachments/assets/cfe123e2-619d-4837-8b06-98fd2ceb0e94)
 
 ***
-
-# Task 2 - Serverless
-
-Serverless refers to a cloud computing model where developers build and run applications without managing the underlying infrastructure, such as servers, storage, or networking. In a serverless architecture, cloud providers (like AWS, Google Cloud, Azure) automatically handle the server management tasks, including provisioning, scaling, and maintenance.
-
-![image](https://github.com/user-attachments/assets/84333aaf-0efe-430a-bdf9-7e44e0aa4ff0)
